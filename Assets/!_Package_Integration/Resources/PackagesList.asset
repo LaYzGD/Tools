@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a1f9744675ec34ea98ec5ce35f9f43, type: 3}
+  m_Name: PackagesList
+  m_EditorClassIdentifier: 
+  _packages:
+  - com.unity.adaptiveperformance
+  - com.unity.addressables
+  - com.unity.services.analytics
+  - com.unity.services.levelplay
+  - com.unity.animation.rigging
+  - com.unity.services.authentication
+  - com.unity.services.cloud-build
+  - com.unity.services.cloud-diagnostics
+  - com.unity.services.cloudsave
+  - com.unity.services.economy
+  - com.unity.purchasing
+  - com.unity.services.leaderboards
+  - com.unity.services.lobby
+  - com.unity.feature.mobile
+  - com.unity.services.matchmaker
+  - com.unity.mathematics
+  - com.unity.memoryprofiler
+  - com.unity.ml-agents
+  - com.unity.services.multiplay
+  - com.unity.multiplayer.tools
+  - com.unity.polybrush
+  - com.unity.postprocessing
+  - com.unity.probuilder
+  - com.unity.performance.profile-analyzer
+  - com.unity.logging
+  - com.unity.services.user-reporting
+  - com.unity.terrain-tools
+  - com.unity.splines
+  - com.unity.feature.characters-animation
+  - com.unity.feature.worldbuilding
+  - com.unity.feature.cinematic
+  - com.unity.feature.development
+  - com.unity.feature.gameplay-storytelling
+  _androidPackages:
+  - com.unity.mobile.android-logcat
+  - com.unity.purchasing.udp
+  _iosPackages:
+  - com.unity.ads.ios-support
